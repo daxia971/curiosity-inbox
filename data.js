@@ -28,6 +28,7 @@ window.CURIO = {
     { id: "drive-letter-c", q: "为什么 Windows 系统盘是 C 盘？A 盘和 B 盘去哪了？", asked: "2026-08-21", status: "pending" },
     { id: "microwave-cold-center", q: "微波炉加热的饭为什么总是边上烫、中间凉？", asked: "2026-08-21", status: "pending" },
     { id: "qr-code-dirty", q: "二维码脏了、破了个角为什么还能扫出来？", asked: "2026-08-21", status: "pending" },
-    { id: "mood-cycles-real-happiness", q: "人为什么总有一段时间emo，一段时间特别开心？真正的开心是啥？", asked: "2026-08-21", status: "pending" }
+    { id: "mood-cycles-real-happiness", q: "人为什么总有一段时间emo，一段时间特别开心？真正的开心是啥？", asked: "2026-08-21", status: "pending" },
+    { id: "ai-consciousness-when", q: "AI什么时候能有意识？", asked: "2026-08-22", status: "pending" }
   ]
 };
